@@ -5,3 +5,9 @@ body {
 	color: #ffffff;
 }
 
+.image {
+	padding: 20px;
+}
+.image img{
+	border-radius: 12px;
+}
