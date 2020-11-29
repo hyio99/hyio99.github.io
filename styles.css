@@ -1,6 +1,9 @@
 header {
 	margin-top: 1em;
+	color: white;
 }
+
+
 
 nav ul {
 	margin: 0;
@@ -26,7 +29,7 @@ body {
 }
 
 h1 {
-	padding-left: 650px;
+	padding-left: 500px;
 	padding-top: 20px;
 
 }
@@ -50,8 +53,8 @@ ul {
 	padding-bottom: 40px;
 }
 
-.rainbow-text {
+/*.rainbow-text {
 	background-image: linear-gradient(to left, pink, orange, red);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-}
+}*/
